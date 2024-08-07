@@ -2,7 +2,7 @@
 const idsToRemove = ['offer_modal', 'ctl00_divA1Ads'];
 
 // List of class names to remove
-const classesToRemove = ['visible-desktop-ad', 'visible-mobile-ad', 'blink label label-warning'];
+const classesToRemove = ['visible-desktop-ad', 'visible-mobile-ad', 'blink label label-warning', 'news-inner-ads'];
 
 // Function to remove elements with the specified IDs
 function removeElementsByIds() {

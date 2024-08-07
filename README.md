@@ -46,7 +46,7 @@ This is a Chrome browser extension that removes elements with specified IDs and 
 const idsToRemove = ['offer_modal', 'ctl00_divA1Ads'];
 
 // List of class names to remove
-const classesToRemove = ['visible-desktop-ad', 'visible-mobile-ad', 'blink label label-warning'];
+const classesToRemove = ['visible-desktop-ad', 'visible-mobile-ad', 'blink label label-warning', 'news-inner-ads'];
 ```
 
 ## Files
