@@ -1,6 +1,6 @@
 # Remove Elements by IDs and Classes
 
-This is a Brave browser extension that removes elements with specified IDs and class names from the website `merolagani.com`. The extension ensures that these elements are removed immediately as they appear on the page.
+This is a Chrome browser extension that removes elements with specified IDs and class names from the website `merolagani.com`. The extension ensures that these elements are removed immediately as they appear on the page.
 
 ### Before:
 - Offer Page
