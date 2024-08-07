@@ -2,6 +2,19 @@
 
 This is a Brave browser extension that removes elements with specified IDs and class names from the website `merolagani.com`. The extension ensures that these elements are removed immediately as they appear on the page.
 
+### Before:
+- Offer Page
+![alt text](./img/image.png)
+- Ads
+![alt text](./img/image-1.png)
+
+### After:
+
+- No Offer Page
+- No Ads
+
+![alt text](./img/image-2.png)
+
 ## Features
 
 - Removes elements with specified IDs.
