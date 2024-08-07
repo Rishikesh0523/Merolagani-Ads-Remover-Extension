@@ -1,8 +1,8 @@
 {
     "manifest_version": 3,
-    "name": "Remove Offer Modal",
+    "name": "Remove Merolagani Ads",
     "version": "1.0",
-    "description": "Remove the offer_modal div from merolagani.com",
+    "description": "Remove ads from merolagani.com",
     "permissions": [
       "activeTab"
     ],
