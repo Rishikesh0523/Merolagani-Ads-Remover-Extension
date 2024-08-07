@@ -43,10 +43,10 @@ This is a Chrome browser extension that removes elements with specified IDs and 
 
 ```javascript
 // List of IDs to remove
-const idsToRemove = ['offer_modal', 'another_id', 'yet_another_id'];
+const idsToRemove = ['offer_modal', 'ctl00_divA1Ads'];
 
 // List of class names to remove
-const classesToRemove = ['class_to_remove', 'another_class', 'yet_another_class'];
+const classesToRemove = ['visible-desktop-ad', 'visible-mobile-ad', 'blink label label-warning'];
 ```
 
 ## Files
